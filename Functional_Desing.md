@@ -1,6 +1,3 @@
-Here is the **Functional Design Document (FDD)** tailored specifically for the **Automotive Tier-1 Supplier** use case.
-
-This document is written to be **GitHub-ready**. You can copy-paste this directly into a file named `DESIGN_DOC.md` or `functional_spec.md` in your repository. It uses professional formatting, industry terminology (OEM, JIT, JIS), and clearly defines the "Agentic" architecture.
 
 ---
 
